@@ -76,6 +76,11 @@ nav{
     color: black;
 }
 
+.nav-item.active{
+    color: #1B262C;
+    font-size: large;
+}
+
 .search-bar{
     height: 32px;
     gap: 8px;
