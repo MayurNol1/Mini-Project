@@ -39,6 +39,3 @@ async function dogPic(){
         console.log(e);;
     }
 }
-
-
-
